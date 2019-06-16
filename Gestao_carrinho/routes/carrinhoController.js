@@ -2,7 +2,7 @@ module.exports = {
 
     
     //=========================================================================
-    // Insere produtos no carrinho de compra 
+    // Lista produtos no carrinho de compra 
     // =========================================================================
     get(_, res) {       
         let = produtos =[
