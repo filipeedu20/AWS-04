@@ -1,11 +1,11 @@
 const express = require('express');
-const carinhoController = require('./carinhoController');
+const carrinhoController = require('./carrinhoController');
 const router = express.Router();
 
 /* GET product page. */
-router.get('/', carinhoController.get);  //list 
-router.post('/', carinhoController.post);  //insert 
-router.put('/', carinhoController.put);  //update
-router.delete('/:id', carinhoController.deleteID);   //delete
+router.get('/', carrinhoController.get);  //list 
+router.post('/', carrinhoController.post);  //insert 
+router.put('/', carrinhoController.put);  //update
+router.delete('/:id', carrinhoController.deleteID);   //delete
 
 module.exports = router;
