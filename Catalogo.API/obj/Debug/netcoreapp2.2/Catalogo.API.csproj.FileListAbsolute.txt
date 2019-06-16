@@ -1,0 +1,14 @@
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\ex04\teste2\Catalogo.API\bin\Debug\netcoreapp2.2\Catalogo.API.deps.json
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\ex04\teste2\Catalogo.API\bin\Debug\netcoreapp2.2\Catalogo.API.runtimeconfig.json
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\ex04\teste2\Catalogo.API\bin\Debug\netcoreapp2.2\Catalogo.API.runtimeconfig.dev.json
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\ex04\teste2\Catalogo.API\bin\Debug\netcoreapp2.2\Catalogo.API.dll
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\ex04\teste2\Catalogo.API\bin\Debug\netcoreapp2.2\Catalogo.API.pdb
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\ex04\teste2\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.csprojAssemblyReference.cache
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\ex04\teste2\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.csproj.CoreCompileInputs.cache
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\ex04\teste2\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.RazorAssemblyInfo.cache
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\ex04\teste2\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.RazorAssemblyInfo.cs
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\ex04\teste2\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.AssemblyInfoInputs.cache
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\ex04\teste2\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.AssemblyInfo.cs
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\ex04\teste2\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.RazorTargetAssemblyInfo.cache
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\ex04\teste2\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.dll
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\ex04\teste2\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.pdb
