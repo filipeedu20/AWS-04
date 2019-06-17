@@ -49,16 +49,75 @@
         "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete", "Options" ]
       },
       {
-        "DownstreamPathTemplate": "/{everything}",
+        "DownstreamPathTemplate": "/carrinho/",
         "DownstreamScheme": "http",
         "DownstreamHostAndPorts": [
           {
             "Host": "127.0.0.1",
-            "Port": 3000
+            "Port": 4000
           }
         ],
-        "UpstreamPathTemplate": "/produtos/{everything}",
-        "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete", "Options" ]
+        "UpstreamPathTemplate": "/carrinho/",
+        "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete"]
+      },
+      {
+        "DownstreamPathTemplate": "/carrinho/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 4000
+          }
+        ],
+        "UpstreamPathTemplate": "/carrinho/{everything}",
+        "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete"]
+      },{
+        "DownstreamPathTemplate": "/produto/",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 3100
+          }
+        ],
+        "UpstreamPathTemplate": "/produto/",
+        "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete"]
+      },
+      {
+        "DownstreamPathTemplate": "/produto/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 3100
+          }
+        ],
+        "UpstreamPathTemplate": "/produto/{everything}",
+        "UpstreamHttpMethod": [ "Get"]
+      },    
+      {
+        "DownstreamPathTemplate": "/gestao_pedidos/",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 3200
+          }
+        ],
+        "UpstreamPathTemplate": "/gestao_pedidos/",
+        "UpstreamHttpMethod": [ "Get"]
+      },
+      {
+        "DownstreamPathTemplate": "/gestao_pedidos/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 3200
+          }
+        ],
+        "UpstreamPathTemplate": "/gestao_pedidos/{everything}",
+        "UpstreamHttpMethod": [ "Get"]
       }
     ],
     "GlobalConfiguration": { }
